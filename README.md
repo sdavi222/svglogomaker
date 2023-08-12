@@ -7,7 +7,7 @@ The SVG Logo Maker is a Node.js command-line application designed to help freela
 https://drive.google.com/file/d/1Y0iczM1k99po5vTKBHirxCAAS-NSBG1p/view?usp=sharing
 
 ## Screenshot of Logo
-C:\Users\sethd\OneDrive\Pictures\svglogo.png
+![svglogo](https://github.com/sdavi222/svglogomaker/assets/130076128/a7ad1654-7bf6-498f-9a9e-278abc113ca7)
 
 ## Tests
 The SVG Logo Maker uses Jest for unit testing. 
